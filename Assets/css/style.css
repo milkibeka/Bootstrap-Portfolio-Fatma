@@ -1,0 +1,21 @@
+* {
+    box-sizing: border-box;
+  }
+  
+  body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    line-height: 1.5;
+  }
+  .navbar, .navmenu {
+    background-color: antiquewhite;
+  }
+ .herosection {  background: url(../images/Fatma\ logo.jpg);
+    background-position: center;
+    height: 300px;
+    background:no-repeat;
+  
+ }
+ .navmenu {
+    font-size: larger; }
