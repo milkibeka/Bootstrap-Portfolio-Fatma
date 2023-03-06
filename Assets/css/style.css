@@ -11,11 +11,6 @@
   .navbar, .navmenu {
     background-color: antiquewhite;
   }
- .herosection {  background: url(../images/Fatma\ logo.jpg);
-    background-position: center;
-    height: 300px;
-    background:no-repeat;
-  
- }
+ 
  .navmenu {
     font-size: larger; }
