@@ -50,6 +50,7 @@
     min-width: 500px;
     max-width: 700px;
     text-align: center;
+  
 }
 .display-4 {
   font-size: 2.5rem;
@@ -69,12 +70,8 @@ margin-left: 15px;
   .sectionHeading {
     margin-left: 15px;
   }
-  .sideAccent {
-    background: #007bff;
-    width: 15px;
-}
+
 a:hover {
-  color: rgb(126, 107, 209);
   background-color: transparent;
-  text-decoration: none;
+  box-shadow: 10px 5px 5px rgba(184, 85, 85, 0.801);
 }
