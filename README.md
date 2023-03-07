@@ -1,11 +1,11 @@
 # Bootstrap-Portfolio-Fatma
 ## Fatma's Portfolio updated with Boootstrap
-### In this project I built my portfolio layout using the Bootstrap CSS Framework from scratch.
+In this project I built my portfolio layout using the Bootstrap CSS Framework from scratch.
 ## Link 
 
 https://milkibeka.github.io/Bootstrap-Portfolio-Fatma/
 
-### In this project we updated our previous project "First-Portfolio". We applied advaced CSS using bootstrap. For each project we used a bootstrap card. We included a navigation bar with menu at the top. A jumbotron, work section with cards and a footer. 
+In this project we updated our previous project "First-Portfolio". We applied advaced CSS using bootstrap. For each project we used a bootstrap card. We included a navigation bar with menu at the top. A jumbotron, work section with cards and a footer. 
 
 ## Screenshot
 
@@ -13,5 +13,5 @@ https://milkibeka.github.io/Bootstrap-Portfolio-Fatma/
 
 ## Credits
 
-###  Stock photos are from https://unsplash.com/
+ Stock photos are from https://unsplash.com/
 
