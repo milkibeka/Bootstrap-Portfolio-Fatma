@@ -15,11 +15,15 @@
     background-color: antiquewhite !important;
     background-size: cover;
     z-index: 10;
+    
   }
   .navbar-brand img {
-    padding-right: 10px;
+    padding-right: 30px;
     width: 110px;
    
+  }
+  .nav-item {
+    padding-right: 50px ;
   }
   .navbar-nav {
     margin-left: auto;
@@ -27,6 +31,7 @@
     background-color: transparent;
     text-decoration: underline;
     font-size: 20px;
+   
   }
    
   .jumbotron {
@@ -36,14 +41,15 @@
     background-repeat: no-repeat;
     display:flex;
     align-items:center;
-    justify-content:center;
+   position:relative;
+   
   }
  
   .container { 
     display:flex;
     flex-direction:column;
     align-items:center;
-    justify-content:center;
+    justify-content:start;
   background-color:antiquewhite;
   width: 400px;
     width: 30%;
@@ -67,8 +73,10 @@ margin-left: 15px;
 .card-body {
   text-align: center;}
 
-  .sectionHeading {
+  .sectionHeading, .footer {
     margin-left: 15px;
+    padding-top: 30px;
+    padding-bottom: 20px;
   }
 
 a:hover {

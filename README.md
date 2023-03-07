@@ -1,5 +1,7 @@
 # Bootstrap-Portfolio-Fatma
 ## Fatma's Portfolio updated with Boootstrap
+### In this project I built my portfolio layout using the Bootstrap CSS Framework from scratch.
+## Link 
 
 https://milkibeka.github.io/Bootstrap-Portfolio-Fatma/
 
@@ -12,3 +14,4 @@ https://milkibeka.github.io/Bootstrap-Portfolio-Fatma/
 ## Credits
 
 ###  Stock photos are from https://unsplash.com/
+
