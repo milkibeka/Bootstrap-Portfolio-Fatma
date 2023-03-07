@@ -65,3 +65,11 @@ margin-left: 15px;
 }
 .card-body {
   text-align: center;}
+
+  .sectionHeading {
+    margin-left: 15px;
+  }
+  .sideAccent {
+    background: #007bff;
+    width: 15px;
+}
