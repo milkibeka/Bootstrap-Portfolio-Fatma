@@ -8,9 +8,42 @@
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     line-height: 1.5;
   }
-  .navbar, .navmenu {
-    background-color: antiquewhite;
+  .customNav {
+    position: fixed;
+    width: 100%;
+    background-color: antiquewhite !important;
+    background-size: cover;
+    z-index: 10;
+  }
+  .navbar-brand img {
+    padding-right: 15px;
+    width: 65px;
+    border: black;
+    border-width: 10px;
+  }
+  .navbar-nav {
+    margin-left: auto;
+    margin-right: 0 !important;
+  }
+  .jumbotron {
+    height: calc(100vh - 25px);
+    background-image: url(../images/background.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    display:flex;
+    align-items:center;
+    justify-content:center;
   }
  
- .navmenu {
-    font-size: larger; }
+  .container { 
+    display:flex;
+    flex-direction:column;
+    align-items:center;
+    justify-content:center;
+  background-color:antiquewhite;
+  width: 400px;
+    width: 70%;
+    min-width: 500px;
+    max-width: 700px;
+    text-align: center;
+}
