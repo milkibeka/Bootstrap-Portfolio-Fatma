@@ -73,3 +73,8 @@ margin-left: 15px;
     background: #007bff;
     width: 15px;
 }
+a:hover {
+  color: rgb(126, 107, 209);
+  background-color: transparent;
+  text-decoration: none;
+}
