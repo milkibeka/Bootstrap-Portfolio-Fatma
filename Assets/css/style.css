@@ -16,6 +16,7 @@
     background-color: antiquewhite !important;
     background-size: cover;
     z-index: 10;
+    page-break-after: auto;
     
     
   }
@@ -37,11 +38,12 @@
   }
    
   .jumbotron {
-    height: calc(80vh - 25px);
+   
     background-image: url(../images/background.jpg);
     background-size: cover;
     background-repeat: no-repeat;
   margin-left: 15px;
+  
 
    
   }
@@ -72,9 +74,10 @@ p {
 margin-left: 20px;
 }
 .footer {
-  margin-left: 15px;
+  margin: 50px;
+
 }
-.aboutme {
+.aboutme, .skills, .projects {
   margin-left: 15px;
   display:flex;
     flex-direction:column;
@@ -94,4 +97,7 @@ margin-left: 20px;
 a:hover {
   background-color: transparent;
   box-shadow: 10px 5px 5px rgba(184, 85, 85, 0.801);
+}
+.card-header {
+  text-align: center;
 }
