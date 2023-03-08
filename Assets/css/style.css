@@ -68,17 +68,25 @@ p {
     font-weight: 400;
 }
 .card {
-margin-left: 15px;
+margin-left: 20px;
+}
+.footer {
+  margin-left: 15px;
+}
+.aboutme {
+  margin-left: 15px;
 }
 .card-body {
   text-align: center;}
 
-  .sectionHeading, .footer {
+  .sectionHeading, footer {
     margin-left: 15px;
     padding-top: 30px;
     padding-bottom: 20px;
   }
-
+.card-deck {
+  margin-left: 15px;
+}
 a:hover {
   background-color: transparent;
   box-shadow: 10px 5px 5px rgba(184, 85, 85, 0.801);
