@@ -76,6 +76,9 @@ p {
 .card {
 margin-left: 20px;
 }
+.container {
+  margin: 30 px;
+}
 .footer {
   margin: 50px;
 
