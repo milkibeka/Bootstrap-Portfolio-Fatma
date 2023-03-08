@@ -15,6 +15,7 @@
     height: max-content;
     background-color: antiquewhite !important;
     background-size: cover;
+    z-index: 10;
     
     
   }
