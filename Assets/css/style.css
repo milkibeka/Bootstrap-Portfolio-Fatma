@@ -3,11 +3,15 @@
   }
   
   body {
-    margin: 0;
-    padding: 0;
+    margin-bottom: 15px;
+    
+   
+    padding-bottom: 15px;
+  
+    
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     line-height: 1.5;
-    margin-right: 15px;
+    
   }
   .customNav {
     position: fixed;
@@ -16,6 +20,7 @@
     background-color: antiquewhite !important;
     background-size: cover;
     z-index: 10;
+    margin-left: 0px;
     
     
     
@@ -34,6 +39,7 @@
     background-color: transparent;
     text-decoration: underline;
     font-size: 20px;
+    
    
   }
    
@@ -41,17 +47,14 @@
    display:flex;
    flex-direction: column;
    align-items: center;
-
-    background-image: url(../images/background.jpg);
-    background-size: cover;
-    background-repeat: no-repeat;
-    margin-left: 15px;
-  
-
-   
-  }
+   background-image: url(../images/background.jpg);
+   background-size: cover;
+   background-repeat: no-repeat;
+   width: 100%;
  
-  .kutu { 
+}
+ 
+  .hero { 
     display:flex;
     flex-direction:column;
     align-items:center;
@@ -74,14 +77,18 @@ p {
     font-weight: 400;
 }
 .card {
-margin-left: 20px;
+padding-bottom: 50px;
+
 }
-.container {
-  margin: 30 px;
+.cardcontainer {
+  margin-bottom: 30px;
+  margin-right: 15px;
 }
 .footer {
-  margin: 50px;
-
+  display: flex;
+  flex-direction: column;
+  align-items:center;
+  margin-bottom: 30px;
 }
 .aboutme, .skills, .projects {
   margin-left: 15px;
